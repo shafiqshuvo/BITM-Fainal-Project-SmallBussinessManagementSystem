@@ -1,0 +1,528 @@
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.dll.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\csc.exe
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\csc.exe.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\csc.rsp
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\csi.exe
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\csi.exe.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\csi.rsp
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Managed.Core.targets
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.AppContext.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Collections.Immutable.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Console.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.IO.Compression.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Reflection.Metadata.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.AccessControl.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.Claims.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Security.Principal.Windows.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.ValueTuple.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XmlDocument.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\vbc.exe
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\vbc.exe.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\vbc.rsp
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\Microsoft.Web.Infrastructure.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Helpers.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Mvc.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Razor.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Webpages.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Razor.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Webpages.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Helpers.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.Web.Mvc.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\obj\Debug\CompileError.csprojAssemblyReference.cache
+F:\BITM\Projects\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CoreCompileInputs.cache
+F:\BITM\Projects\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CopyComplete
+F:\BITM\Projects\Project2\CompileError\CompileError\obj\Debug\CompileError.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\obj\Debug\CompileError.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Manager.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Model.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\EntityFramework.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Repository.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Manager.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Model.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\EntityFramework.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Repository.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.Repository.dll.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll.config
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\AutoMapper.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.ValueTuple.dll
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\AutoMapper.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\AutoMapper.xml
+F:\BITM\Projects\Project2\CompileError\CompileError\bin\System.ValueTuple.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.dll.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\csc.exe
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\csc.exe.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\csc.rsp
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\csi.exe
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\csi.exe.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\csi.rsp
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Managed.Core.targets
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.AppContext.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Collections.Immutable.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Console.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.IO.Compression.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Reflection.Metadata.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.AccessControl.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.Claims.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Security.Principal.Windows.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.ValueTuple.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XmlDocument.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\vbc.exe
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\vbc.exe.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\vbc.rsp
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\AutoMapper.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Manager.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Model.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\EntityFramework.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\Microsoft.Web.Infrastructure.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.ValueTuple.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Helpers.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Mvc.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Razor.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Webpages.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Repository.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Manager.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Model.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\AutoMapper.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\AutoMapper.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\EntityFramework.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.ValueTuple.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Razor.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Webpages.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Helpers.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\System.Web.Mvc.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Repository.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.Repository.dll.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError\obj\Debug\CompileError.csprojAssemblyReference.cache
+D:\K\K 24.11.19\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CoreCompileInputs.cache
+D:\K\K 24.11.19\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CopyComplete
+D:\K\K 24.11.19\Project2\CompileError\CompileError\obj\Debug\CompileError.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError\obj\Debug\CompileError.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Manager.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Model.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Manager.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\obj\Debug\CompileError.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\obj\Debug\CompileError.dll
+C:\Users\Web App Develop .Net\Desktop\Project2\CompileError\CompileError\obj\Debug\CompileError.pdb
+D:\project\Project2\CompileError\CompileError\obj\Debug\CompileError.csprojAssemblyReference.cache
+D:\project\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CoreCompileInputs.cache
+D:\project\Project2\CompileError\CompileError\obj\Debug\CompileError.dll
+D:\project\Project2\CompileError\CompileError\obj\Debug\CompileError.pdb
+D:\project\Project2\CompileError\CompileError\bin\CompileError.dll.config
+D:\project\Project2\CompileError\CompileError\bin\CompileError.dll
+D:\project\Project2\CompileError\CompileError\bin\CompileError.pdb
+D:\project\Project2\CompileError\CompileError\bin\roslyn\csc.exe
+D:\project\Project2\CompileError\CompileError\bin\roslyn\csc.exe.config
+D:\project\Project2\CompileError\CompileError\bin\roslyn\csc.rsp
+D:\project\Project2\CompileError\CompileError\bin\roslyn\csi.exe
+D:\project\Project2\CompileError\CompileError\bin\roslyn\csi.exe.config
+D:\project\Project2\CompileError\CompileError\bin\roslyn\csi.rsp
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project\Project2\CompileError\CompileError\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.AppContext.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Collections.Immutable.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Console.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.IO.Compression.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.AccessControl.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.Claims.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.ValueTuple.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project\Project2\CompileError\CompileError\bin\roslyn\vbc.exe
+D:\project\Project2\CompileError\CompileError\bin\roslyn\vbc.exe.config
+D:\project\Project2\CompileError\CompileError\bin\roslyn\vbc.rsp
+D:\project\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe
+D:\project\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe.config
+D:\project\Project2\CompileError\CompileError\bin\AutoMapper.dll
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Manager.dll
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Model.dll
+D:\project\Project2\CompileError\CompileError\bin\EntityFramework.dll
+D:\project\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.dll
+D:\project\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\Project2\CompileError\CompileError\bin\Microsoft.Web.Infrastructure.dll
+D:\project\Project2\CompileError\CompileError\bin\System.ValueTuple.dll
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Helpers.dll
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Mvc.dll
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Razor.dll
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.dll
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Webpages.dll
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.dll
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Repository.dll
+D:\project\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Manager.pdb
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Model.pdb
+D:\project\Project2\CompileError\CompileError\bin\AutoMapper.pdb
+D:\project\Project2\CompileError\CompileError\bin\AutoMapper.xml
+D:\project\Project2\CompileError\CompileError\bin\EntityFramework.xml
+D:\project\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.xml
+D:\project\Project2\CompileError\CompileError\bin\System.ValueTuple.xml
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Razor.xml
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Webpages.xml
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.xml
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.xml
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Helpers.xml
+D:\project\Project2\CompileError\CompileError\bin\System.Web.Mvc.xml
+D:\project\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Repository.pdb
+D:\project\Project2\CompileError\CompileError\bin\CompileError.Repository.dll.config
+D:\project\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.pdb
+D:\project\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll.config
+D:\project\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.dll.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Manager.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Model.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Manager.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\bin\CompileError.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.pdb
+D:\project\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.csprojAssemblyReference.cache
+D:\project\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CoreCompileInputs.cache
+D:\project\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.dll
+D:\project\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.dll.config
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\csc.exe
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\csc.exe.config
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\csc.rsp
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\csi.exe
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\csi.exe.config
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\csi.rsp
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.AppContext.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Collections.Immutable.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Console.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.Compression.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.IO.Pipes.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.AccessControl.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Claims.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.ValueTuple.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\vbc.exe
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\vbc.exe.config
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\vbc.rsp
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe
+D:\project\updated\Project2\CompileError\CompileError\bin\roslyn\VBCSCompiler.exe.config
+D:\project\updated\Project2\CompileError\CompileError\bin\AutoMapper.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Manager.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Model.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\EntityFramework.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\Microsoft.Web.Infrastructure.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.ValueTuple.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Helpers.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Mvc.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Razor.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Repository.dll
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.DatabaseContext.dll.config
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Manager.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Model.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\AutoMapper.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\AutoMapper.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\EntityFramework.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\EntityFramework.SqlServer.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.ValueTuple.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Razor.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Deployment.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Webpages.Razor.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Helpers.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\System.Web.Mvc.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Repository.pdb
+D:\project\updated\Project2\CompileError\CompileError\bin\CompileError.Repository.dll.config
+D:\project\updated\Project2\CompileError\CompileError\obj\Debug\CompileError.csproj.CopyComplete

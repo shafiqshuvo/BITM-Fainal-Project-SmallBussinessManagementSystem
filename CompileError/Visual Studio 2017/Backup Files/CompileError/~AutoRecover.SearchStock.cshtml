@@ -1,0 +1,111 @@
+﻿
+@model CompileError.Models.StockViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customer</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <section>
+        <div class="container">
+            <form method="post">
+                <table class="table table-striped table-dark">
+                    <tr>
+                        <td>Product Name</td>
+                        <td><input type="text" name="ProductName" value="@Model.ProductName" /></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Category</td>
+                        <td><input type="text" name="Category" value="@Model.Category" /></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Start Date</td>
+                        <td><input type="text" name="StartDateTime" value="@Model.StartDateTime" /></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>End Date</td>
+                        <td><input type="text" name="EndDateTime" value="@Model.EndDateTime" /></td>
+                        <td></td>
+                    </tr>
+
+                    <tr>
+                        <td></td>
+                        <td><button type="submit" class="btn btn-success">Search</button></td>
+                        <td>
+                            @if (ViewBag.Message != null)
+                            {
+                                <h3>
+                                    <b>
+                                        @ViewBag.Message;
+                                    </b>
+                                </h3>
+                            }
+
+                        </td>
+                    </tr>
+
+                </table>
+            </form>
+        </div>
+
+    </section>
+
+    <section class="Data-view">
+        <div class="container">
+            <table class="table table-striped table-dark">
+                <thead>
+                    <tr>
+                        <th scope="col">SL</th>
+                        <th scope="col">Code</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Reorder Level</th>
+                        <th scope="col">Expired Date</th>
+                        <th scope="col">Expired Quantity</th>
+                        <th scope="col">Opening Balance</th>
+                        <th scope="col">IN</th>
+                        <th scope="col">Out</th>
+                        <th scope="col">ClosingBalance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{ int i = 1;}
+                    @foreach (var stocks in Model.Stocks)
+                    {
+                        <tr>
+                            <td>@(i++)</td>
+                            <td>@stocks.ProductCode</td>
+                            <td>@stocks.ProductName</td>
+                            <td>@stocks.Category</td>
+                            <td>@stocks.ReorderLevel</td>
+                            <td>@stocks.ExpiredDate</td>
+                            <td>@stocks.ExpiredQuantity</td>
+                            <td>@stocks.OpeningBalance</td>
+                            <td>@stocks.IN</td>
+                            <td>@stocks.Out</td>
+                            <td>@stocks.ClosingBalance</td>
+                            @*<td>
+                                    @Html.ActionLink("Edit", "Edit", new { id = customers.Id }) |
+                                    @Html.ActionLink("Delete", "Delete", new { id = customers.Id }, null)
+                                </td>*@
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </section>
+</body>
+</html>

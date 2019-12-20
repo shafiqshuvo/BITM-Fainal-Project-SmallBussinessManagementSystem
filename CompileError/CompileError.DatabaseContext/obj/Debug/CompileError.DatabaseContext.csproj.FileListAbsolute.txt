@@ -1,0 +1,86 @@
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll.config
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csprojAssemblyReference.cache
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CoreCompileInputs.cache
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CopyComplete
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.InitialCreate.resources
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.GenerateResource.cache
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ModelNameUpdated.resources
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductCategoryRelationCreated.resources
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SuppliersAdded.resources
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SupplierPurchaseRelationCreated.resources
+F:\BITM\Projects\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductPurchasedProductRelationEstablished.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll.config
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.pdb
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.dll
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.pdb
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\project\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csprojAssemblyReference.cache
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.InitialCreate.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ModelNameUpdated.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductCategoryRelationCreated.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SuppliersAdded.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SupplierPurchaseRelationCreated.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductPurchasedProductRelationEstablished.resources
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.GenerateResource.cache
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CopyComplete
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.dll
+D:\project\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.InitialCreate.resources
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ModelNameUpdated.resources
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductCategoryRelationCreated.resources
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SuppliersAdded.resources
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SupplierPurchaseRelationCreated.resources
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductPurchasedProductRelationEstablished.resources
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.pdb
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll.config
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.dll
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.DatabaseContext.pdb
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.dll
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\CompileError.Model.pdb
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csprojAssemblyReference.cache
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.InitialCreate.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ModelNameUpdated.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductCategoryRelationCreated.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SuppliersAdded.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.SupplierPurchaseRelationCreated.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.ProductPurchasedProductRelationEstablished.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.GenerateResource.cache
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.csproj.CopyComplete
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.dll
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.pdb
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.StockReportAdded.resources
+D:\project\updated\Project2\CompileError\CompileError.DatabaseContext\obj\Debug\CompileError.DatabaseContext.Migrations.StockAdded.resources

@@ -1,0 +1,85 @@
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll.config
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll.config
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.pdb
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.xml
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csprojAssemblyReference.cache
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CoreCompileInputs.cache
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CopyComplete
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.dll
+F:\BITM\Projects\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll.config
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.pdb
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csprojAssemblyReference.cache
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CoreCompileInputs.cache
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CopyComplete
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.dll
+D:\K\K 24.11.19\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.pdb
+D:\project\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csprojAssemblyReference.cache
+D:\project\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CoreCompileInputs.cache
+D:\project\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.dll
+D:\project\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.pdb
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll.config
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.pdb
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.dll
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.dll
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.pdb
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll.config
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.pdb
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.xml
+D:\project\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\shafiq\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.pdb
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll.config
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.dll
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Repository.pdb
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.dll
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.dll
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.pdb
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.DatabaseContext.dll.config
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\CompileError.Model.pdb
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.xml
+D:\project\updated\Project2\CompileError\CompileError.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csprojAssemblyReference.cache
+D:\project\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CoreCompileInputs.cache
+D:\project\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.csproj.CopyComplete
+D:\project\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.dll
+D:\project\updated\Project2\CompileError\CompileError.Repository\obj\Debug\CompileError.Repository.pdb
